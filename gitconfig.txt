@@ -10,8 +10,8 @@ cd SilvinaHealthApp
 --Bibliotecas
 npx expo install expo-router react-native-safe-area-context react-native-screens expo--linking expo-constants expo-status-bar
 
-
---app.json:
-
+--Restaurar o projeto apos o clone (no terminal)
+cd SilvinaHealthApp
+npm i
 
 
