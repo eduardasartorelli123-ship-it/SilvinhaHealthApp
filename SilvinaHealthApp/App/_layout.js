@@ -43,6 +43,13 @@ export default function Layout() {
             headerShown: true
           }}
         />
+        <Stack.Screen
+          name="tmb"
+          options={{
+            title: 'Taxa Metabólica Basal',
+            headerShown: true
+          }}
+        />
 
       </Stack>
     </>
